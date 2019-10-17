@@ -1,4 +1,5 @@
-# my-ts
+# mt-vue-ts
+vue and typescript dev
 
 ## Project setup
 ```
